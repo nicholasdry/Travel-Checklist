@@ -12,3 +12,6 @@ Main interface which keeps track of list items.
 ![alt tag](http://i68.tinypic.com/290pw90.png)
 
 Menu which allows the addition of new items to the travel list.
+
+# Future Developments
+-The ability to save lists after closing.
